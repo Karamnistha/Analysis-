@@ -3,7 +3,7 @@
 Developed an interactive and automated Excel-based tool to help insurance agents quickly illustrate annuity payments for clients aged 40+. The tool dynamically calculates annual pay-outs, total payments, and the final pay-out age based on user-selected annuity plans.
 
 **Key Features:**
- ✅ *Custom Plan Selection – Supports 7 annuity plans with varying payment structures.* __
+ ✅ *Custom Plan Selection – Supports 7 annuity plans with varying payment structures.* \
  ✅ VBA Automation__
  🔹 Bulk Processing: Iterates through multiple clients, automating annuity projections.
  🔹 Data Transfer: Pulls client data from the "Block of Business" sheet into the "Illustration Calculator."
