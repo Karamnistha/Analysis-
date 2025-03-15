@@ -1,14 +1,14 @@
 **Annuity Illustration Tool – Excel & VBA Automation**
 
-Developed an interactive and automated Excel-based tool to help insurance agents quickly illustrate annuity payments for clients aged 40+. The tool dynamically calculates annual pay-outs, total payments, and the final pay-out age based on user-selected annuity plans.
+Developed an interactive and automated Excel-based tool to help insurance agents quickly illustrate annuity payments for clients aged 40+. The tool dynamically calculates annual pay-outs, total payments, and the final pay-out age based on user-selected annuity plans.\
 
-**Key Features:**
+**Key Features:**\
  ✅ *Custom Plan Selection – Supports 7 annuity plans with varying payment structures.* \
- ✅ VBA Automation__
- 🔹 Bulk Processing: Iterates through multiple clients, automating annuity projections.
- 🔹 Data Transfer: Pulls client data from the "Block of Business" sheet into the "Illustration Calculator."
- 🔹 Automated Calculations: Populates payment schedules dynamically based on plan selection.
- 🔹 Summary Report Generation: Copies final projections into the "All Payments" sheet for a consolidated view.
+ ✅ VBA Automation\
+ 🔹 Bulk Processing: Iterates through multiple clients, automating annuity projections.\
+ 🔹 Data Transfer: Pulls client data from the "Block of Business" sheet into the "Illustration Calculator."\
+ 🔹 Automated Calculations: Populates payment schedules dynamically based on plan selection.\
+ 🔹 Summary Report Generation: Copies final projections into the "All Payments" sheet for a consolidated view.\
  🔹 Formatting & Optimization: Adjusts column widths for readability and saves the workbook automatically.
  ✅ Dynamic Calculations – Uses Excel formulas (AND, OR, ISODD, ISEVEN) for accurate forecasting.
  ✅ User-Friendly Interface – Designed for intuitive navigation, automated data entry, and error handling to minimize manual work.
