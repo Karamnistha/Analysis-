@@ -15,4 +15,4 @@ Developed an interactive and automated Excel-based tool to help insurance agents
  ✅ Quality Assurance – Built-in verification checks, reasonability tests, and automated alerts for accuracy.
 
 **This tool enhances efficiency and accuracy by automating annuity projections, reducing manual work, and ensuring error-free calculations.**
-https://github.com/users/Karamnistha/projects/3/views/url
+[https://github.com/users/Karamnistha/projects/3/views/url](https://github.com/Karamnistha/Analysis-/blob/main/Excel_Illustration_project_Final.xlsm)
