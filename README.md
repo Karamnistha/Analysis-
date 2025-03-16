@@ -21,3 +21,4 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 
 
 
+****Project 1: Annuity Illustration Tool – Excel & VBA Automation****
