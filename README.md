@@ -5,12 +5,6 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 
 **Key Features:**\
  ✅ *Custom Plan Selection – Supports 7 annuity plans with varying payment structures.* \
-![image](https://github.com/user-attachments/assets/2ea51ca5-bbee-4fe8-9bfb-1736442ba3e9)
-![image](https://github.com/user-attachments/assets/72a48cf8-a34a-4ade-ac35-07b0b110a5c1)
-
-
-
-
  ✅ VBA Automation\
     🔹 Bulk Processing: Iterates through multiple clients, automating annuity projections.\
     🔹 Data Transfer: Pulls client data from the "Block of Business" sheet into the "Illustration Calculator."\
