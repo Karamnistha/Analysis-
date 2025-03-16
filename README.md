@@ -1,5 +1,6 @@
 
-****Annuity Illustration Tool – Excel & VBA Automation****
+
+****Project 1: Annuity Illustration Tool – Excel & VBA Automation****
 
 Developed an interactive and automated Excel-based tool to help insurance agents quickly illustrate annuity payments for clients aged 40+. The tool dynamically calculates annual pay-outs, total payments, and the final pay-out age based on user-selected annuity plans.
 
