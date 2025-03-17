@@ -5,7 +5,7 @@
 Developed an interactive and automated Excel-based tool to help insurance agents quickly illustrate annuity payments for clients aged 40+. The tool dynamically calculates annual pay-outs, total payments, and the final pay-out age based on user-selected annuity plans.
 
 **Key Features:**\
- ✅ *Custom Plan Selection – Supports 7 annuity plans with varying payment structures.* 
+ ✅ Custom Plan Selection – Supports 7 annuity plans with varying payment structures.
  
 ![image](https://github.com/user-attachments/assets/d0b39d73-0b3d-4a54-b985-1253735ef10c)
 
@@ -39,7 +39,7 @@ https://github.com/Karamnistha/SQL-Excel-VBA/blob/main/Excel_Illustration_projec
 
 ![image](https://github.com/user-attachments/assets/e1201064-e09b-484d-adb3-1f60bb11c884)
 
-✅ * Developed a revenue analysis dashboard for WixSin Company, providing key insights into revenue trends, best-selling products, and market segments.* 
+✅ Developed a revenue analysis dashboard for WixSin Company, providing key insights into revenue trends, best-selling products, and market segments.
 
  **Key Features:**\
 ✅ Analyzed $9.8M in revenue and 1,430 units sold, identifying trends across months, days, and regions.
