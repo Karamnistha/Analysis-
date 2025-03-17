@@ -24,7 +24,7 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 [https://github.com/users/Karamnistha/projects/3/views/url](https://github.com/Karamnistha/Analysis-/blob/main/Excel_Illustration_project_Final.xlsm)
 
 
-****Project 2:WixSin Company Revenue Analysis****
+****Project 2:WixSin Company Revenue Analysis - Excel Revenue Dashboard Development****
 
 ✅ * Developed a revenue analysis dashboard for WixSin Company, providing key insights into revenue trends, best-selling products, and market segments.* 
 
@@ -38,6 +38,7 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 ✅ Suggested data-driven recommendations, such as weekend promotions and regional growth strategies.
 
 💡 This project reinforced my expertise in data visualization, business intelligence, and strategic decision-making. 
+
  
  
 
