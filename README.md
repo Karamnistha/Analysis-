@@ -21,7 +21,9 @@ Developed an interactive and automated Excel-based tool to help insurance agents
  ✅ Quality Assurance – Built-in verification checks, reasonability tests, and automated alerts for accuracy.
 
 **This tool enhances efficiency and accuracy by automating annuity projections, reducing manual work, and ensuring error-free calculations.**
-[https://github.com/users/Karamnistha/projects/3/views/url](https://github.com/Karamnistha/Analysis-/blob/main/Excel_Illustration_project_Final.xlsm)
+
+https://github.com/Karamnistha/SQL-Excel-VBA/blob/main/Excel_Illustration_project_Final.xlsm
+
 
 
 ****Project 2:WixSin Company Revenue Analysis - Excel Revenue Dashboard Development****
@@ -38,6 +40,7 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 ✅ Suggested data-driven recommendations, such as weekend promotions and regional growth strategies.
 
 **This project reinforced my expertise in data visualization, business intelligence, and strategic decision-making.**
+
 https://github.com/Karamnistha/SQL-Excel-VBA/blob/main/WixSin%20Company%20Revenue%20Analysis%20.xlsx
 
  
