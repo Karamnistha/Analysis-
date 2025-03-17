@@ -21,6 +21,7 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 
 
 ****Project 2:WixSin Company Revenue Analysis****
+
  ✅ *Revenue Analysis for Over six months in the country of Canada * \
  
  
