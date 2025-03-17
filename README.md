@@ -37,7 +37,8 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 
 ✅ Suggested data-driven recommendations, such as weekend promotions and regional growth strategies.
 
-💡 This project reinforced my expertise in data visualization, business intelligence, and strategic decision-making. 
+**This project reinforced my expertise in data visualization, business intelligence, and strategic decision-making.**
+https://github.com/Karamnistha/SQL-Excel-VBA/blob/main/WixSin%20Company%20Revenue%20Analysis%20.xlsx
 
  
  
