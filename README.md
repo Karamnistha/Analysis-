@@ -20,5 +20,8 @@ Developed an interactive and automated Excel-based tool to help insurance agents
 [https://github.com/users/Karamnistha/projects/3/views/url](https://github.com/Karamnistha/Analysis-/blob/main/Excel_Illustration_project_Final.xlsm)
 
 
+****Project 2:WixSin Company Revenue Analysis****
+ ✅ *Revenue Analysis for Over six months in the country of Canada * \
+ 
+ 
 
-****Project 1: Annuity Illustration Tool – Excel & VBA Automation****
